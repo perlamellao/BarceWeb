@@ -6,7 +6,7 @@ function Nav() {
   
   return (
     <header className="site-header sticky-top">
-      <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
+      <nav class="nav-bar navbar navbar-dark navbar-expand-lg">
           <div class="container-fluid">
               <a class="navbar-brand" href="/"><img src="MainLogo.png" alt="" width="30" height="24" class="logo d-inline-block align-text-top"/>Barceló Equipa</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">

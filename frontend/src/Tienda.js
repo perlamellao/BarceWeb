@@ -5,7 +5,9 @@ function Tienda() {
 
   
   return (
-    <h2>Esto es la tienda bruh</h2>
+    <div>
+      <h2>Esto es la tienda</h2>
+    </div>
   );
 }
 

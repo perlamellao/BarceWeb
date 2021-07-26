@@ -8,12 +8,12 @@ import Inicio from './Inicio'
 import Nav from './Nav'
 import Contacto from './Contacto'
 import Tienda from './Tienda'
-
 function App() {
   return (
     <Router>
       <div>
         <Nav />
+
         <Switch>
           <Route path="/" exact component={Inicio}/>
           <Route path="/contacto" exact component={Contacto}/>
