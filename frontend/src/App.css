@@ -1,6 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400);
+html, body {
+    height: 100%;
+    background: no-repeat;
+    background: rgb(255,0,0);
+    background: linear-gradient(71deg, rgba(255,0,0,1) 0%, rgba(121,9,10,1) 35%, rgba(6,29,33,1) 100%);
+    
+}
+
+
+
+.navbar.transparent.navbar-inverse .navbar-inner {
+    background: rgba(0,0,0,0.4);
+ }
+ 
 .logo {
     margin-right: 9px;
 }
+
+
+.cargando {
+    margin-top: 23%;
+    margin-left: 40%;
+}
+.main-logo {
+    height: 20%;
+}
+
 
 .navbar .navbar-collapse {
     text-align: center;
@@ -8,3 +33,4 @@
 .nav-link:hover{
     background-color: rgb(78, 78, 78);
 }
+
