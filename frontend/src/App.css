@@ -1,0 +1,10 @@
+.logo {
+    margin-right: 9px;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+.nav-link:hover{
+    background-color: rgb(78, 78, 78);
+}
